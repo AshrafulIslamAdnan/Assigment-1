@@ -1,0 +1,130 @@
+.mot-line h1 {
+  padding-top: 35px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+.mot-line p {
+  text-align: center;
+  color: #627382;
+  font-weight: 400;
+  padding-bottom: 44px;
+}
+.mot-line {
+  background-color: rgb(254, 250, 249);
+}
+.card-img {
+  /* width: 60px;
+    height: 60px; */
+  background-color: #f95555;
+  padding: 8px 8px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.card {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0px;
+  max-width: 100%;
+  padding: 0px 120px 0px 120px;
+  background-color: rgb(254, 250, 249);
+  margin-bottom: 120px;
+}
+.main-card {
+  width: 300px;
+  text-align: center;
+  padding-top: 79px;
+  vertical-align: center;
+  background-color: rgb(255, 255, 255);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin: 0px;
+}
+
+.main-hero-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+.hero-2-comments-1 {
+  max-width: 450px;
+}
+.first-c {
+  color: #30b868;
+  margin-bottom: 13px;
+}
+.second-c {
+  font-size: 40px;
+  font-weight: 700px;
+  margin-bottom: 16px;
+}
+.third-c {
+  color: #637382;
+  font-size: 14px;
+  margin-bottom: 40px;
+}
+.forth-c {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.herosection3{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 120px;
+  background-color: #f7f6f2;
+  padding: 80px 0px;
+}
+.finally{
+    background-color:#001F3F;
+    
+}
+.final-upper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 120px 120px 80px 120px;
+}
+.media{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    text-align: left;
+   
+}
+.Social-media-links{
+    display: flex;
+    text-decoration: none;
+    justify-content: flex-end;
+     align-items: center;
+    gap: 10px;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+.media p{
+    color: white;
+    margin-bottom: 10px;
+}
+.bar{
+    margin: 0 120px;
+}
+.yes-mama{
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.new-pera{
+  display: flex;
+}
+.pera-image{
+  padding-left: 10px;
+}

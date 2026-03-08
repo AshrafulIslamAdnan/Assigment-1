@@ -1,0 +1,122 @@
+.top-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    
+    height: 92px;
+
+}
+.head-img{
+    width: 139px;
+    height: 60px;
+    margin-left: 120px;
+}
+.head-button{
+    margin-right: 120px;
+}
+.head-link-nav, a{
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    gap:32px;
+    padding: 0px;
+    align-items: center;
+   
+
+}
+.top-banner-section{
+    background-image: url("assets/hero-bg.png");
+    height: 674px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    vertical-align:middle;
+    
+
+    
+}
+.top-banner-content{
+   text-align: center;
+   max-width: 770px;
+
+}
+.top-banner-content  h1{
+    
+    font-size: 71px;
+    font-weight: 700;
+}
+.green{
+    color: rgba(48, 184, 104, 1);
+    margin-bottom: 20px;
+    padding-top: 0px;
+}
+
+
+
+.badge{
+     color: rgba(48, 184, 104, 1);
+    width: 229px;
+    height: 35px;
+    border-radius: 50px;
+    border: none;
+    font-weight: 600;
+     transition: all ease 0.3s;
+}
+   .badge:hover{
+    background-color:  rgba(48, 184, 104, 1);
+    color: white;
+       cursor: pointer;
+   }
+   
+    
+
+.green-dot{
+    padding-right: 10px;
+    padding-left: 0px;
+   vertical-align: middle;  
+
+}
+.top-banner-content p{
+    font-size: 18px;
+    color: white;
+    line-height: 24px;
+    margin-top: 10px;
+    
+}
+.upeer-button{
+    margin-bottom: 40px;
+}
+.button-arrow{
+    width: 15.53;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+.work-botton{
+    margin-left: 10px;
+    padding: 9.7px 16px 11px 16px;
+    background: transparent;
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+    border: 1px solid white;
+     vertical-align: middle;
+      transition: all ease 0.3s;
+  
+}
+.Play-botton{
+    
+    margin-right: 13px;
+    vertical-align: middle;
+    color: transparent;
+   
+}
+.work-botton:hover{
+   opacity: 0.6;
+   cursor: pointer;
+}
